@@ -1,4 +1,4 @@
-# NINJAGO-English-Chinese-termbase
+# Ninjago-zh-en-Termbase
 基于幻影忍者剧集和FANDOM WIKi的中英双语可查询对照表，当前国内套组杂志与剧集译名部分不统一，且番外资料不全，该表主要目的用于快速查找以及整理官中未涉及内容。
 
 ## 如何为此项目做贡献
